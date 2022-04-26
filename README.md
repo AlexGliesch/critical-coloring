@@ -24,8 +24,6 @@ This repository holds the source code, detailed result tables and instances for 
 
 Do use the reference above if you use this material in your research.
 
-***
-
 ## Running the code 
 
 1. Unpack the instances in `instances.tar.gz`.
@@ -33,8 +31,6 @@ Do use the reference above if you use this material in your research.
 3. Run using `./critcol -i {instance} -k {numColors} -t {timeLimit} -o {outFile}`. Add `-v` for increased verbosity. For more options, see `--help`. 
 
 Our reimplementation of Sun et al. (2017)'s IBR algorithm is in `src/ibr`, see README there.
-
-***
 
 ## Instance generator for imperfect graphs (with high probability) 
 
