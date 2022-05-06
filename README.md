@@ -27,7 +27,7 @@ Please use the reference above if you use this material in your research.
 ## Running the code 
 
 1. Unpack the instances in `instances.tar.gz`.
-2. Compile the code under `src` using `make`. Make sure you have a C++17 compatible compiler.
+2. Compile the code under `src` using `make release`. Make sure you have a C++17-compatible compiler.
 3. Run using `./critcol -i {instance} -k {numColors} -t {timeLimit} -o {outFile}`. Add `-v` for increased verbosity. For more options, see `--help`. 
 
 Our reimplementation of Sun et al. (2017)'s IBR algorithm is in `src/ibr`, see README there.
