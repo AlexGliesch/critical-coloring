@@ -3,7 +3,7 @@
 This repository holds the source code, detailed result tables and instances for the following paper:
 
 > **A new heuristic for finding verifiable k-vertex-critical subgraphs**<br>
-> Alex Gliesch, Marcus Ritt<br>
+> Alex Gliesch, Marcus Ritt (2022)<br>
 > Journal of Heuristics 28, pp. 61–91 <br>
 > https://doi.org/10.1007/s10732-021-09487-9
 
@@ -22,7 +22,7 @@ This repository holds the source code, detailed result tables and instances for 
 }
 ```
 
-Do use the reference above if you use this material in your research.
+Please use the reference above if you use this material in your research.
 
 ## Running the code 
 
