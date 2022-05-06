@@ -1,4 +1,4 @@
-## Clique, independent set and coloring codes
+# Clique, independent set and coloring codes
 
 Here we have the following codes:
 
